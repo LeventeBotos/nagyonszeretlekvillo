@@ -98,7 +98,7 @@ const Home: React.FC = () => {
         />
         <img
           className="flex-0 w-auto object-contain rounded-lg"
-          src="/8.JPG"
+          src="/8.jpeg"
           loading="lazy"
         />
         <img
@@ -134,11 +134,6 @@ const Home: React.FC = () => {
         <img
           className="flex-0 w-auto object-contain rounded-lg"
           src="/15.JPG"
-          loading="lazy"
-        />
-        <img
-          className="flex-0 w-auto object-contain rounded-lg"
-          src="/16.JPG"
           loading="lazy"
         />
       </div>
